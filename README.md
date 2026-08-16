@@ -68,6 +68,6 @@ http://localhost:3000
 
 ## Author
 
-**Teham Khan**
+**Teham Nusrat Khan**
 
 Computer Science Student | Front-End Developer
